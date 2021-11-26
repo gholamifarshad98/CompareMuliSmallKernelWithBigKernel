@@ -1,0 +1,6 @@
+in this foleder the results are produced by :
+
+cols rows kernel that is located in 5*5 kernel(5*1). ancher was in i,0 location. anchechr was moved in cols kernel.
+
+sum up results of multy kernel 
+anceher moved in subkernel and col-sub-kernel is fixed and sumup in kernel. 
